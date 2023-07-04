@@ -2,4 +2,4 @@
 ![image info](Visuals/image.png)
 ![image info](Visuals/image(1).png)
 ![image info](Visuals/image(2).png)
-a simple shooting game using pygame module
+a simple shooting game project using pygame module
